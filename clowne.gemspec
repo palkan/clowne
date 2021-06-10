@@ -18,7 +18,7 @@ Gem::Specification.new do |spec|
   end
   spec.metadata = {
     "bug_tracker_uri" => "http://github.com/clowne-rb/clowne/issues",
-    "changelog_uri" => "https://github.com/clowne-rb/clowne/blob/master/CHANGELOG.md",
+    "changelog_uri" => "https://github.com/clowne-rb/clowne/releases",
     "documentation_uri" => "https://clowne.evilmartians.io/",
     "homepage_uri" => "https://clowne.evilmartians.io/",
     "source_code_uri" => "http://github.com/clowne-rb/clowne"
